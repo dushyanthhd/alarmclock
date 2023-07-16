@@ -25,3 +25,7 @@ Delete alarm
 
 For each alarm give a delete button to delete the alarm
 When the user deletes an alarm make sure it “does not alerts the user”
+
+
+
+https://dushyanthhd.github.io/alarmclock/ hosted link
